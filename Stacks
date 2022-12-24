@@ -1,0 +1,11 @@
+Stacks
+Description
+You are given some lines of code. You have to modify the given stack to return the desired output as shown below.
+
+Input Format
+No input required
+
+Output Format
+[2, 45, 53, 54, 12]
+Execution Time Limit
+15 seconds
